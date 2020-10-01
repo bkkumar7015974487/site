@@ -10,7 +10,21 @@ This is all of the code that is responsible for maintaining [our website][1] and
 
 The website is built on Django and should be simple to set up and get started with.
 If you happen to run into issues with setup, please don't hesitate to open an issue!
-
+How to make a discord bot?
+ Download Node.js and set up a Discord account
+ Create: Get your bot’s authorization token your bot
+ Send your bot to your server
+ Create a “Bot” folder on your computer
+  Open your text editor and make your bot’s files
+  : Define your bot’s code
+   Open your computer’s “Command Prompt” and navigate to your Discord bot folder
+   Use the Command Prompt to install your bot’s dependencies
+   Run the bot
+   
+   Figure out if your bot has been made by someone else
+   
+   
+   
 If you're looking to contribute or play around with the code, take a look at [the wiki][2] or the [`docs` directory](docs). If you're looking for things to do, check out [our issues][3].
 
 [1]: https://pythondiscord.com
